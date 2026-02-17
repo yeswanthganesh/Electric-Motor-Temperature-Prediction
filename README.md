@@ -152,9 +152,3 @@ http://127.0.0.1:5000
 
 ---
 
-### 🌐 Live Deployment (Render)
-
-The application is deployed on Render:
-
-🔗 https://electric-motor-temperature-prediction-mtj6.onrender.com
-
