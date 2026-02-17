@@ -59,10 +59,8 @@ Electric-Motor-Temperature-Prediction/
 | Language | Python |
 | ML Libraries | NumPy, Pandas, Scikit-learn |
 | Visualization | Matplotlib, Seaborn |
-| Model | Random Forest Regressor |
+| Model | Random Forest Regressor, Linear Regression |
 | Web Framework | Flask |
-| Deployment | Render |
-| Serialization | Joblib |
 | Environment | Jupyter Notebook |
 
 
