@@ -19,9 +19,6 @@ By analyzing historical motor data, machine learning models were trained to accu
 | Team Member | Marise Radha Vaishnawe|
 | Team Member | Velagala Jyothi Ayyappa Swarupa Reddy |
 | Team Member | Kommanapalli Yeswanth Ganesh |
-| Faculty Mentor | Anji Babu |
-
-
 
 ##  Project Structure
 ```
