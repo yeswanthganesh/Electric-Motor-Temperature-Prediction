@@ -69,9 +69,7 @@ Electric-Motor-Temperature-Prediction/
 
 ##  Project Setup
 
-## Project Setup
-
-### 1️⃣ Clone the Repository
+### 1️ Clone the Repository
 
 ```bash
 git clone https://github.com/yeswanthganesh/Electric-Motor-Temperature-Prediction.git
@@ -79,7 +77,7 @@ git clone https://github.com/yeswanthganesh/Electric-Motor-Temperature-Predictio
 
 ---
 
-### 2️⃣ Create & Activate Virtual Environment
+### 2️ Create & Activate Virtual Environment
 
 ```bash
 python -m venv .venv
@@ -99,7 +97,7 @@ source .venv/bin/activate
 
 ---
 
-### 3️⃣ Install Dependencies
+### 3️ Install Dependencies
 
 ```bash
 pip install -r requirements.txt
@@ -113,7 +111,7 @@ pip install flask numpy pandas scikit-learn joblib matplotlib seaborn gunicorn
 
 ---
 
-### 4️⃣ Run Jupyter Notebooks (Model Training)
+### 4️ Run Jupyter Notebooks (Model Training)
 
 ```bash
 jupyter notebook
@@ -133,7 +131,7 @@ motor_temperature_model.pkl
 
 ---
 
-### 5️⃣ Run the Flask Application
+### 5️ Run the Flask Application
 
 Navigate to Flask folder:
 
