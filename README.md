@@ -14,25 +14,14 @@ By analyzing historical motor data, machine learning models were trained to accu
 
 | Role | Name |
 |------|------|
-| Team ID | LTVIP2026TMIDSXXXXX |
-| Team Leader | Yeswanth Ganesh |
-| Team Member | SV |
-| Team Member | KG |
-| Team Member | VJ |
-| Team Member | MR |
+| Team ID | LTVIP2026TMIDS74581 |
+| Team Leader | Satya Siva Sai Ganesh Valluri |
+| Team Member | Marise Radha Vaishnawe|
+| Team Member | Velagala Jyothi Ayyappa Swarupa Reddy |
+| Team Member | Kommanapalli Yeswanth Ganesh |
 | Faculty Mentor | Anji Babu |
 
-Team ID : LTVIP2026TMIDS74581
 
-Team Leader : Satya Siva Sai Ganesh Valluri
-
-Team member : Marise Radha Vaishnawe
-
-Team member : Velagala Jyothi Ayyappa Swarupa Reddy
-
-Team member : Kommanapalli Yeswanth Ganesh
-
-Faculty Mentor	Anji Babu
 📁 Project Structure
 Electric-Motor-Temperature-Prediction/
 │
@@ -54,74 +43,42 @@ Electric-Motor-Temperature-Prediction/
 │
 ├── model.save                              # Saved trained model (optional)
 └── README.md
+## 🛠 Technologies Used
 
-🧠 Technologies Used
-Category	Technology
-Language	Python
-ML Libraries	NumPy, Pandas, Scikit-learn
-Visualization	Matplotlib, Seaborn
-Model	Random Forest Regressor
-Web Framework	Flask
-Deployment	Render
-Model Serialization	Joblib
-Environment	Jupyter Notebook
-🔍 Machine Learning Workflow
-1️⃣ Data Loading
+| Category | Technology |
+|----------|------------|
+| Language | Python |
+| ML Libraries | NumPy, Pandas, Scikit-learn |
+| Visualization | Matplotlib, Seaborn |
+| Model | Random Forest Regressor |
+| Web Framework | Flask |
+| Deployment | Render |
+| Serialization | Joblib |
+| Environment | Jupyter Notebook |
 
-Imported dataset using Pandas
 
-Explored dataset structure
+## ⚙️ Project Setup
 
-2️⃣ Data Preprocessing
-
-Removed unnecessary columns
-
-Checked for null values
-
-Handled outliers
-
-Performed train-test split
-
-3️⃣ Model Building
-
-Models used:
-
-Linear Regression
-
-Random Forest Regressor
-
-Random Forest was selected because it achieved the highest R² score (~0.999).
-
-4️⃣ Model Evaluation
-
-R² Score
-
-MAE
-
-RMSE
-
-5️⃣ Deployment
-
-Model integrated into Flask application
-
-Web interface created for user input
-
-Application deployed online using Render
-
-📸 Project Output Screenshots
-Model Evaluation
-
-Flask Application Output
-
-⚙️ Project Setup (Local)
-1️⃣ Clone the Repository
+### 1️⃣ Clone Repository
 git clone https://github.com/your-username/Electric-Motor-Temperature-Prediction.git
 
-2️⃣ Install Dependencies
+### 2️⃣ Install Dependencies
 pip install -r requirements.txt
 
-3️⃣ Run Flask Application
+### 3️⃣ Run Flask App
 cd Flask
+python app.py
+
+Open:
+http://127.0.0.1:5000
+## 📸 Project Output
+
+### Model Evaluation
+![Model Evaluation](screenshots/model_evaluation.png)
+
+### Flask Application Output
+![Flask Output](screenshots/flask_prediction.png)
+
 python app.py
 
 
