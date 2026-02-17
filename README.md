@@ -4,13 +4,11 @@ This project aims to predict the temperature of an electric motor based on opera
 
 By analyzing historical motor data, machine learning models were trained to accurately estimate motor temperature.
 
-🎥 Project Demo Video
+ Project Demo Video
 
 [Add your Google Drive demo video link here]
 
-👥 Team Details
-
-## 👥 Team Details
+ Team Details
 
 | Role | Name |
 |------|------|
@@ -22,7 +20,7 @@ By analyzing historical motor data, machine learning models were trained to accu
 | Faculty Mentor | Anji Babu |
 
 
-📁 Project Structure
+Project Structure
 Electric-Motor-Temperature-Prediction/
 │
 ├── dataset/                                # Dataset (not uploaded due to size)
@@ -57,7 +55,7 @@ Electric-Motor-Temperature-Prediction/
 | Environment | Jupyter Notebook |
 
 
-## ⚙️ Project Setup
+##  Project Setup
 
 ### 1️⃣ Clone Repository
 git clone https://github.com/your-username/Electric-Motor-Temperature-Prediction.git
