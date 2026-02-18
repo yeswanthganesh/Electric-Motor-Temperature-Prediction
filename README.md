@@ -4,11 +4,6 @@ This project aims to predict the temperature of an electric motor based on opera
 
 By analyzing historical motor data, machine learning models were trained to accurately estimate motor temperature.
 
-
- ##  Project Demo Video
-
-[Watch Demo Video](projectvideo.mp4)
-
 ## Project Demo Video
 
 [Watch Demo Video](demo-video/project-demo.mp4)
