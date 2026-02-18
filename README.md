@@ -9,6 +9,10 @@ By analyzing historical motor data, machine learning models were trained to accu
 
 [Watch Demo Video](projectvideo.mp4)
 
+## Project Demo Video
+
+[Watch Demo Video](demo-video/project-demo.mp4)
+
 
 ## Team Details
 
